@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/RodrigoCorreia23">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=900&color=3178C6&center=true&vCenter=true&width=620&height=60&lines=Hey%2C+I'm+Rodrigo+Correia;Full-stack+developer;Voice+AI+%26+automation;Building+from+Viana+do+Castelo+%F0%9F%87%B5%F0%9F%87%B9" alt="Rodrigo Correia">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=900&color=3178C6&center=true&vCenter=true&width=620&height=60&lines=Hey%2C+I'm+Rodrigo+Correia;Full-stack+developer;Voice+AI+%26+automation;Building+from+Viana+do+Castelo+%F0%9F%87%B5%F0%9F%87%B9" alt="Rodrigo Correia">
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=RodrigoCorreia23&style=flat-square&color=3178C6&label=profile+views" alt="Profile views">
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3178C6,50:61DAFB,100:F38020&height=4&section=header" width="100%" alt="">
 
 ### What I'm working on
 
@@ -39,17 +37,13 @@
 | **[TpThermal](https://github.com/RodrigoCorreia23/TpThermal)** | Object detection on thermal imagery with a trained YOLOv8 model | Python · YOLOv8 |
 | **[Binance](https://github.com/RodrigoCorreia23/Binance)** | Android trading client with a companion Java backend | Kotlin · Java |
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3178C6,50:61DAFB,100:F38020&height=4&section=header" width="100%" alt="">
 
-### 📊 The numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RodrigoCorreia23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=3178C6&icon_color=3178C6" alt="GitHub stats">
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=RodrigoCorreia23&hide_border=true&background=00000000&stroke=3178C6&ring=3178C6&fire=F38020&currStreakLabel=3178C6" alt="Streak">
-</p>
+### 📊 By the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCorreia23&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=transparent&title_color=3178C6" alt="Top languages">
+  <img src="https://raw.githubusercontent.com/RodrigoCorreia23/RodrigoCorreia23/main/metrics.svg" width="49%" alt="GitHub metrics">
+  <img src="https://streak-stats.demolab.com?user=RodrigoCorreia23&hide_border=true&background=00000000&stroke=3178C6&ring=3178C6&fire=F38020&currStreakLabel=3178C6&sideLabels=3178C6&dates=888888" width="49%" alt="Commit streak">
 </p>
 
 ### 📈 Contribution activity
@@ -68,13 +62,7 @@
   </picture>
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoCorreia23&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies">
-</p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="3" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3178C6,50:61DAFB,100:F38020&height=4&section=header" width="100%" alt="">
 
 ### Reach me
 

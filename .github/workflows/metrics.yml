@@ -32,3 +32,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_colors: github
           plugin_languages_details: percentage
+          # csfloat has a committed .venv (~16.9 MB of vendored Python) which
+          # alone accounts for ~97% of all Python bytes and skews the chart.
+          plugin_languages_skipped: csfloat

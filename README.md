@@ -49,6 +49,10 @@
 ### 📈 Contribution activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoCorreia23/RodrigoCorreia23/main/metrics-calendar.svg" width="60%" alt="Isometric contribution calendar">
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoCorreia23&bg_color=00000000&color=3178C6&line=3178C6&point=F38020&area=true&hide_border=true" width="98%" alt="Activity graph">
 </p>
 

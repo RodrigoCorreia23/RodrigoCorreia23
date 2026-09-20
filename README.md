@@ -71,6 +71,6 @@
 ### Reach me
 
 <p align="center">
-  <a href="mailto:info@ctvc.pt"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:rodrigo2003@live.com.pt"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://honor-growth.com"><img src="https://img.shields.io/badge/honor--growth.com-F38020?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
